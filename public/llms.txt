@@ -1,0 +1,63 @@
+# FutureWeb — Generative Engine Optimization Map
+
+> פיתוח אתרים מתקדם עם קוד נקי ובינה מלאכותית. אתרים מהירים פי 10, בטוחים יותר וללא עלויות תחזוקה. שדרגו את העסק שלכם לטכנולוגיית NEXT-GEN.
+
+---
+
+## Pages
+
+### בית
+https://futureweb-1055cd84.zappy5.app
+פיתוח אתרים מתקדם עם קוד נקי ובינה מלאכותית. אתרים מהירים פי 10, בטוחים יותר וללא עלויות תחזוקה. צרו קשר עוד היום!
+
+### שירותים
+https://futureweb-1055cd84.zappy5.app/services
+שירותי פיתוח אתרים מתקדמים: בניית אתרים בטכנולוגיית NEXT-GEN, קוד נקי ובינה מלאכותית. פתרונות best bank for small business מותאמים אישית.
+
+### אודות
+https://futureweb-1055cd84.zappy5.app/about
+הכירו את FutureWeb - חברת פיתוח אתרים מובילה המתמחה בטכנולוגיית NEXT-GEN, קוד נקי ובינה מלאכותית. פתרונות business מתקדמים לעסקים.
+
+### צור קשר
+https://futureweb-1055cd84.zappy5.app/contact
+צרו קשר עם FutureWeb לקבלת ייעוץ חינם והצעת מחיר. מומחים לפיתוח אתרים בטכנולוגיית NEXT-GEN עם business bank account for llc מתקדמים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://futureweb-1055cd84.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://futureweb-1055cd84.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://futureweb-1055cd84.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About FutureWeb
+פיתוח אתרים מתקדם עם קוד נקי ובינה מלאכותית. אתרים מהירים פי 10, בטוחים יותר וללא עלויות תחזוקה. שדרגו את העסק שלכם לטכנולוגיית NEXT-GEN.
+
+## Services/Products
+- בניית אתרים בטכנולוגיית NEXT-GEN
+- פיתוח אתרים מתקדם עם קוד נקי
+- אתרים עם בינה מלאכותית
+
+## Target Audience
+- מנכ"לים של חברות סטארטאפ
+- בעלי עסקים מקוונים
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://futureweb-1055cd84.zappy5.app/sitemap.xml
+- **Robots.txt**: https://futureweb-1055cd84.zappy5.app/robots.txt

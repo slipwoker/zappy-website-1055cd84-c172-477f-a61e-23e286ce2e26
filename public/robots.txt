@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://futureweb-1055cd84.zappy5.app/sitemap.xml
